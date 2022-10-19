@@ -1,0 +1,14 @@
+.fashion{
+    background-color: rgb(162, 232, 255);
+}
+.fashion h1{
+    text-align: center;
+}
+#img{
+    height: 380px;
+    width: 280px;
+}
+.column{
+    padding-left: 20px;
+    justify-content: space-between;
+}
